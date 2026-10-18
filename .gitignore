@@ -1,0 +1,17 @@
+## .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+## SQLite db (recreated by seeder on first run)
+*.db
+*.db-shm
+*.db-wal
+
+## OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
